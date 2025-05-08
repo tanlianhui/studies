@@ -1,0 +1,2 @@
+[console_scripts]
+mcp-web-extractor-riversoft = web_extractor.server:main
