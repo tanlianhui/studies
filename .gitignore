@@ -1,2 +1,6 @@
 **/.env
 **/.venv
+*.csv
+*.npz
+*.pt
+__pycache__/
